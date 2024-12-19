@@ -1,0 +1,27 @@
+{
+  "spotify_data_dir": "Spotify Extended Streaming History",
+  "db_fp": "spotify_history.db",
+  "ollama_model": "llama3.2",
+  "ollama_host": "http://localhost:11434",
+  "classified_genres_fp": "classified_genres.json",
+  "fundamental_genres": [
+    "blues",
+    "classical",
+    "country",
+    "electronic",
+    "folk",
+    "hip-hop",
+    "jazz",
+    "new age",
+    "reggae",
+    "rock",
+    "drum and bass",
+    "techno",
+    "house",
+    "metal",
+
+    "r&b",
+    "pop",
+    "miscellaneous"
+  ]
+}
