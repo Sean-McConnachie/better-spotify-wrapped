@@ -4,6 +4,13 @@
 
 ### How to use
 
+#### Download your Spotify data
+
+1. Request your extended streaming history download from the [Account Privacy Data](https://www.spotify.com/uk/account/privacy/)
+2. Confirm the email you will receive
+3. Wait a few days
+4. Download with the new link in your email
+
 #### Setup [Ollama](https://github.com/ollama/ollama) 
 
 1. Install [Ollama](https://github.com/ollama/ollama) (GPU highly reccommened)
